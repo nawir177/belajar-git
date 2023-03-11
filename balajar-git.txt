@@ -1,0 +1,3 @@
+ini adalah pebelajaran git di video sandika galih
+hal ini berkaintan dengan adanya implementasain git pada tempat magang
+dan saya harapkan ini bisa menjadi modal kedepannya yang bisa saya gunakan dengan baik 
