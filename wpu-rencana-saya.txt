@@ -5,3 +5,7 @@ RENCANA CONTENT SAYA
 -belajar spati permission yang lebih komplit
 -saya juga akan lebih mendalami tentang reqwes ajax
 - saya juga ingin belajar tentang reac js
+>belajr VIew
+>belajar Reqws ajax
+
+- Belajar mendalami Jquery
