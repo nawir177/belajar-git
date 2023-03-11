@@ -4,5 +4,8 @@ RENCANA CONTENT SAYA
 -belajar packege yang akan di gunakan
 -saya juga akan lebih mendalami tentang reqwes ajax
 - saya juga ingin belajar tentang reac js
->belajar sistem matiak js
--belajar laravel
+>belajr VIew
+>belajar Reqws ajax
+
+- Belajar mendalami Jquery
+
