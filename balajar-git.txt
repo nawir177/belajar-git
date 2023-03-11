@@ -1,3 +1,5 @@
 ini adalah pebelajaran git di video sandika galih
 hal ini berkaintan dengan adanya implementasain git pada tempat magang
 dan saya harapkan ini bisa menjadi modal kedepannya yang bisa saya gunakan dengan baik 
+saat ini saya sedang melakukan magang Studi Independen Bacth 4 di yayahasan hasnur center
+dan saat ini saya di posisikan sebagai tim Web Developer di unit Digitaliz yayahan hasnur center
